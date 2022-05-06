@@ -20,7 +20,7 @@ HTML, CSS.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at shaktawatpritam@gmail.com
 
 
 ![Logo](https://github.com/shaktawatpritam2002/Fitness-Thoery-Gym/blob/main/images/Screenshot%202022-05-03%20172953.png?raw=true)
