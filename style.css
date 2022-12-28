@@ -108,7 +108,9 @@ nav{
     padding: 100px 0px;
     height: 100%;
     text-align: center;
-
+    /* background: black; */
+    /* clip-path: polygon(0% 100%,80% 85%,100% 100%); */
+    
 }
 
 
@@ -117,7 +119,7 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 .about-left{
@@ -183,10 +185,14 @@ nav{
 #trainer-div{
     width: 100%;
     height: 100vh;
+    background: black;
+    
 }
 
 .t1{
     float: 33%;
+    border-radius: 2px solid red;
+    
 }
 .t2{
     float: 33%;
@@ -194,3 +200,4 @@ nav{
 .t3{
     float: 33%;
 }
+
